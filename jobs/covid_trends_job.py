@@ -8,6 +8,12 @@ from pyspark.sql import SparkSession
 
 from covid_analysis.transforms import *
 
+# import pyspark
+# spark = SparkSession.builder \
+#                     .master('local[1]') \
+#                     .appName('covid_trends_job') \
+#                     .getOrCreate()
+
 # tell Python the type of the spark global so code completion works
 spark: SparkSession = spark
 

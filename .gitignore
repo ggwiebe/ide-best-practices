@@ -1,0 +1,8 @@
+.DS_Store
+.coverage
+build
+__pycache__
+covid_analysis.egg-info
+dist
+spark-warehouse
+.vscode

@@ -2,8 +2,8 @@
     "environments": {
         "default": {
             "profile": "DEFAULT",
-            "workspace_dir": "/Shared/dbx/projects/dbx-getting-started",
-            "artifact_location": "dbfs:/dbx/dbx-getting-started"
+            "workspace_dir": "/Shared/dbx/projects/ggw_ide_bp",
+            "artifact_location": "dbfs:/dbx/ggw_ide_bp"
         }
     }
 }
